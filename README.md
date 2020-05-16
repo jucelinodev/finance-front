@@ -1,4 +1,4 @@
-# Fincance-Front
+# Finance-Front
 
 Simple interface made with React.js to consume finance -api
 
